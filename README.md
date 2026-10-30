@@ -2,13 +2,6 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 🎓 Final-year B.E. Computer Science & Engineering student at D.Y. Patil College of Engineering & Technology, Kolhapur
-- 💻 MERN stack developer who also builds Android apps and Python tools
-- 🚀 Shipped a full-stack booking app with an AI trip planner, a freelance resort website, and an offline-first Android ERP
-- 📊 Cisco-certified in Data Analytics (Excel, SQL, Tableau) and exploring data science
-- 🎨 Blender workshop trainer and technical + presentation coordinator at Lingualeads club
-- 📍 Kolhapur, Maharashtra, India
 
 ## 🚀 Projects
 
@@ -59,9 +52,9 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="48" height="48" style="margin: 4px;" /></p>
 
 ## 🎓 Education
-- **B.E. Computer Science & Engineering** (2023 – 2027), D.Y. Patil College of Engineering & Technology, 74.82%
-- **12th**, Ideal English School and Junior College of Science and Commerce, Konkan Divisional Board, 68.33%
-- **10th**, Ideal English School and Junior College of Science and Commerce, Konkan Divisional Board, 89.20%
+- **B.E. Computer Science & Engineering** (2023 – 2027), 8/10
+- **12th**, 68.33%
+- **10th**,89.20%
 
 ## 📜 Certifications & Internships
 - **Data Analytics Essentials**, Cisco Networking Academy (Excel, SQL, Tableau)
@@ -72,9 +65,6 @@
 - **Advanced Python Programming**, Campus Credentials (in progress)
 - **Data Science Workshop**, Techfest, IIT Bombay
 
-## 🤝 Positions of Responsibility
-- **Technical + Presentation Coordinator**, Lingualeads club (DYPCET)
-- **Blender Workshop Trainer**, taught 3D modeling, texturing, lighting, and rendering to beginners
 
 ## 🔗 Connect with Me
 <p align="center"><a href="mailto:akshayanar0604@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://github.com/Akshayanar" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin: 0 8px;"/></a></p>
